@@ -1,0 +1,10 @@
+C:\Users\ALİ\Source\Repos\UserLoginProject\UserLoginProject\bin\Debug\UserLoginProject.exe.config
+C:\Users\ALİ\Source\Repos\UserLoginProject\UserLoginProject\bin\Debug\UserLoginProject.exe
+C:\Users\ALİ\Source\Repos\UserLoginProject\UserLoginProject\bin\Debug\UserLoginProject.pdb
+C:\Users\ALİ\Source\Repos\UserLoginProject\UserLoginProject\obj\Debug\UserLoginProject.csproj.AssemblyReference.cache
+C:\Users\ALİ\Source\Repos\UserLoginProject\UserLoginProject\obj\Debug\UserLoginProject.Form1.resources
+C:\Users\ALİ\Source\Repos\UserLoginProject\UserLoginProject\obj\Debug\UserLoginProject.Properties.Resources.resources
+C:\Users\ALİ\Source\Repos\UserLoginProject\UserLoginProject\obj\Debug\UserLoginProject.csproj.GenerateResource.cache
+C:\Users\ALİ\Source\Repos\UserLoginProject\UserLoginProject\obj\Debug\UserLoginProject.csproj.CoreCompileInputs.cache
+C:\Users\ALİ\Source\Repos\UserLoginProject\UserLoginProject\obj\Debug\UserLoginProject.exe
+C:\Users\ALİ\Source\Repos\UserLoginProject\UserLoginProject\obj\Debug\UserLoginProject.pdb
